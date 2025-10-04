@@ -2,7 +2,7 @@
 
 A console based game written in C++.
 
-## how to cimpile
+## how to compile
 
 ### Using the provided batch file (Windows):
 1. Double click "compile_and_run.bat".
@@ -23,4 +23,5 @@ When a player arrest a target they gain 10 units of energy.
 The player cannot occupy the same space as an immovable obstacle (#)
 When the player runs out of energy the game ends in defeat.
 
-
+# programing language
+C++

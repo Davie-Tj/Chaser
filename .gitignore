@@ -1,0 +1,12 @@
+# Compiled executable files
+*.exe
+*.out
+*.app
+
+# Object files from compilation
+*.o
+*.obj
+
+# Build directories DO NOT UPLOAD
+bin/
+docs/
